@@ -1,0 +1,50 @@
+county,2018,2021,growth_rate
+"Alameda County,CA",1666756,1680480,0.008
+"Contra Costa County,CA",1150519,1159540,0.008
+"Kern County,CA",893758,913090,0.022
+"Los Angeles County,CA",10073906,9969510,-0.01
+"Marin County,CA",259662,257154,-0.01
+"Orange County,CA",3175973,3175130,-0.0
+"Placer County,CA",392330,410327,0.046
+"Riverside County,CA",2445789,2520060,0.03
+"Sacramento County,CA",1538746,1578680,0.026
+"San Bernardino County,CA",2166753,2206750,0.018
+"San Diego County,CA",3333861,3347270,0.004
+"San Francisco County,CA",880696,883255,0.003
+"San Joaquin County,CA",752491,781462,0.039
+"San Mateo County,CA",768681,762357,-0.008
+"Santa Clara County,CA",1932337,1918880,-0.007
+"Ventura County,CA",848142,841734,-0.008
+"Yolo County,CA",220118,221264,0.005
+"Bexar County,TX",1981187,2048290,0.034
+"Brazoria County,TX",368887,385018,0.044
+"Collin County,TX",1004307,1095580,0.091
+"Comal County,TX",148141,172345,0.163
+"Dallas County,TX",2629350,2647850,0.007
+"Denton County,TX",858741,944139,0.099
+"Ellis County,TX",179006,196466,0.098
+"El Paso County,TX",836825,844064,0.009
+"Fort Bend County,TX",788081,858902,0.09
+"Galveston County,TX",337858,350701,0.038
+"Guadalupe County,TX",163276,173989,0.066
+"Harris County,TX",4680045,4779880,0.021
+"Hays County,TX",222706,245161,0.101
+"Johnson County,TX",171121,185209,0.082
+"Kaufman County,TX",128279,151904,0.184
+"Montgomery County,TX",589770,642633,0.09
+"Rockwall County,TX",100546,113653,0.13
+"Tarrant County,TX",2081446,2144650,0.03
+"Travis County,TX",1246572,1328720,0.066
+"Williamson County,TX",566463,638727,0.128
+"Bronx County,NY",1432087,1390450,-0.029
+"Dutchess County,NY",293939,294776,0.003
+"Erie County,NY",919717,916672,-0.003
+"Kings County,NY",2578074,2523560,-0.021
+"Monroe County,NY",742864,739582,-0.004
+"Nassau County,NY",1357534,1355700,-0.001
+"New York County,NY",1629055,1628010,-0.001
+"Orange County,NY",382126,390568,0.022
+"Queens County,NY",2274605,2212360,-0.027
+"Richmond County,NY",476260,475909,-0.001
+"Rockland County,NY",325522,326323,0.002
+"Westchester County,NY",968213,966092,-0.002

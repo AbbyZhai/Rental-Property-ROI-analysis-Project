@@ -20,14 +20,6 @@ The focus of our data manipulation is to facilitate the calculation of ROI for e
 
 <img src="Images/formula.png" alt="formula" width="600"/>
 
-**Cash-on-cash return = (gross rental income - expenses) / initial cash out of pocket**
-
-where
-
-gross rental income = monthly rent * 12
-expense = yearly mortgage payment + property tax + maintenance and management
-initial cash out of pocket = down payment + closing cost + remodel cost
-
 This data manipulation work is heavy, containing multiple types of data sources,webscsrap, and data manipulation techniqus to prepare.  The work can be found in the **return_calculation.ipynb, webscrap_PropertTaxRateData.ipynb, get_pop_growth_rate.ipynb, and demographic_analysis.ipynb notebooks**.
 
 

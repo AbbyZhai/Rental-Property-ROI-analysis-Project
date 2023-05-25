@@ -16,16 +16,16 @@ In this project, we've studied the before and since pandemic Residential Rental 
 
 ## Data Manipulation 
 
-The focus of our data manipulation is to facilitate the calculation of ROI for each point in time. We define ROI in this study as the cash-on-cash return with the following formula:
+The focus of data manipulation section is to facilitate the calculation of ROI for each point in time. We define ROI in this study as the cash-on-cash return calculated using the following formula:
 
 <img src="Images/formula.png" alt="formula" width="600"/>
 
-This data manipulation work is heavy, containing multiple types of data sources,webscsrap, and data manipulation techniqus to prepare.  The work can be found in the **return_calculation.ipynb, webscrap_PropertTaxRateData.ipynb, get_pop_growth_rate.ipynb, and demographic_analysis.ipynb notebooks**.
+This data manipulation work is heavy, involving multiple types of data sources, webscsraping, and data manipulation techniqus. The work can be found in four notebooks: return_calculation.ipynb, webscrap_PropertTaxRateData.ipynb, get_pop_growth_rate.ipynb, and demographic_analysis.ipynb.
 
 
 ## Data Analysis and Visualization
 
-In this section, we analyzed the data based on the questions below and presented our results using various visualizations.
+In this section, we analyzed the data in response to the questions asked by potential stakeholders and presented the results through various visualizations.
 
 Questions:
 1. Has there been any change of ROI trend since pandemic? 
